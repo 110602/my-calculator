@@ -1,0 +1,16 @@
+package com.keerthi;
+public class Main {
+public static void main ( String[] args) {
+int a=0,b=1,c,i,num=7,d=1;
+System.out.print(a+" "+b);
+for(i=2;i<count;i++)
+{
+c=a+b;
+System.out.print(" "+c);
+a=b;
+b=c;
+d+=c;
+}
+System.out.println("sum of Fibonacci series"+d);
+}
+}
