@@ -1,2 +1,0 @@
-# my-calculator
-My calculator
